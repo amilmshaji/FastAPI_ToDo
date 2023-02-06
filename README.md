@@ -3,11 +3,13 @@
 <h2><b>Introduction</b></h2>
 This project is an implementation of REST API for a to-do list application using the FastAPI framework and either MySQL or MongoDB for database management. The API supports authentication and implements CRUD (Create, Read, Update, Delete) functionalities for to-do items.
 
-Requirements
-FastAPI
-Python 3.6+
-MySQL/MongoDB
-python-dotenv (optional, for environment variables)
+<h2><bRequirements</b></h2>
+<ul>
+<li>FastAPI</li>
+<li>Python 3.6+</li>
+<li>MySQL/MongoDB</li>
+<li>python-dotenv (optional, for environment variables)</li>
+ </ul>
 Installation
 Clone the repository to your local machine.
 Navigate to the project folder and run pip install -r requirements.txt to install the required dependencies.
@@ -17,7 +19,7 @@ Usage
 To run the project, navigate to the root of the project and run python root.py. The API will be available at http://localhost:8000/.
 
 API Endpoints
-The following endpoints are available for CRUD operations on to-do items:
+The following endpoints are available for CRUD operations on to-do items:<li>
 
 POST /todos: Creates a new to-do item.
 GET /todos: Retrieves a list of all to-do items.
