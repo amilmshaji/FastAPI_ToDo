@@ -10,7 +10,8 @@ This project is an implementation of REST API for a to-do list application using
 <li>MySQL/MongoDB</li>
 <li>python-dotenv (optional, for environment variables)</li>
  </ul>
- ![image](https://user-images.githubusercontent.com/95700607/217033888-eb6bd28d-ab7c-40e1-a911-d830b25a8f50.png)
+
+![image](https://user-images.githubusercontent.com/95700607/217036506-694ceac0-b2d7-44dc-b158-154a47b56c0e.png)
 
  
 <h2><b>Installation</b></h2>
