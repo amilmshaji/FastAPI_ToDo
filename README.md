@@ -34,6 +34,9 @@ The following endpoints are available for CRUD operations on to-do items:<li>
 <li> /todos/{id}: Updates a specific to-do item by ID.</li>
 <li>DELETE /todos/{id}: Deletes a specific to-do item by ID.</li></ul>
  
+ ![image](https://user-images.githubusercontent.com/95700607/217037786-e276bd3a-c7d9-49d3-9af8-50c1ca0ce4bd.png)
+
+ 
 <h2><b>Authentication</b></h2>
  
 The API uses basic authentication for secure access to to-do items.
@@ -43,4 +46,5 @@ The API uses basic authentication for secure access to to-do items.
 This project provides a simple yet functional REST API for a to-do list application using FastAPI and either MySQL or MongoDB. It can serve as a starting point for further development or customization to meet specific needs.
 
 
+![image](https://user-images.githubusercontent.com/95700607/217037168-331aa3aa-384e-436a-a887-f01e9cc24c39.png)
 
