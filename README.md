@@ -1,5 +1,6 @@
 <h1><b>Project Name: To-Do API</b></h1>
-Introduction
+
+<h2><b>Introduction</b></h2>
 This project is an implementation of REST API for a to-do list application using the FastAPI framework and either MySQL or MongoDB for database management. The API supports authentication and implements CRUD (Create, Read, Update, Delete) functionalities for to-do items.
 
 Requirements
